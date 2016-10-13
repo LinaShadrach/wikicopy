@@ -1,4 +1,11 @@
-.left{
+.login{
+  margin-bottom: 30px;
+}
+.well{
+  height: 45px;
+  margin: 15px;
+}
+  .left{
   float: left;
 }
 .right {
@@ -10,13 +17,17 @@
 .blue{
   color: blue;
 }
-
-.panel-heading{
-  padding: 10px;
+.headwellp{
+  background-color:#d8c1f4;
 }
-.headwell{
-  margin: 15px;
+.headwellg{
   background-color: #95d8be;
+}
+.headwellb{
+  background-color: #adc7dd;
+}
+h4{
+  margin: 0px;
 }
 #center{
   text-align: center;
@@ -26,9 +37,20 @@
   height: 100px;
 }
 #topwell{
+  margin-top: 50px;
   border: 3px solid skyblue;
+  height: 100px;
 }
 #grn{
   border: 1px solid #95d8be;
   background-color: #e3f7ef;
+}
+#blue{
+  border: 1px solid #adc7dd;
+  background-color: #e5f0f9;
+  height: 750px;
+}
+#purple{
+  border: 1px solid #d8c1f4;
+  background-color: #f3edf9;
 }
