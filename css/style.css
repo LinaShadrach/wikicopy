@@ -13,7 +13,7 @@
   display: inline-block;
   width: 15%;
 }
-  .left{
+.left{
   float: left;
 }
 .right {
@@ -38,10 +38,13 @@ h4{
   margin: 0px;
 }
 #wikilogo{
-width: 90%;
+  width: 90%;
 }
-.sidebar {
+.sidewell{
   display: inline-block;
+}
+.sidewell ul{
+  list-style-type: none;
 }
 #searchwell{
   margin-top: 0px;
@@ -73,4 +76,8 @@ width: 90%;
 #purple{
   border: 1px solid #d8c1f4;
   background-color: #f3edf9;
+}
+#wedding{
+  display:block;
+  margin: 0px auto;
 }
