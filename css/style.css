@@ -1,6 +1,34 @@
-#logol{
+.left{
   float: left;
 }
-#logor{
+.right {
   float: right;
+}
+.bfont{
+  font-size: 25px;
+}
+.blue{
+  color: blue;
+}
+
+.panel-heading{
+  padding: 10px;
+}
+.headwell{
+  margin: 15px;
+  background-color: #95d8be;
+}
+#center{
+  text-align: center;
+}
+#welcomewell{
+  border: 1px solid grey;
+  height: 100px;
+}
+#topwell{
+  border: 3px solid skyblue;
+}
+#grn{
+  border: 1px solid #95d8be;
+  background-color: #e3f7ef;
 }
