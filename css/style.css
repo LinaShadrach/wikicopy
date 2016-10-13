@@ -37,14 +37,14 @@
 h4{
   margin: 0px;
 }
-#wikilogo{
-  width: 90%;
-}
 .sidewell{
   display: inline-block;
 }
 .sidewell ul{
   list-style-type: none;
+}
+#wikilogo{
+  width: 90%;
 }
 #searchwell{
   margin-top: 0px;
