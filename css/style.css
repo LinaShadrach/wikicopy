@@ -1,9 +1,17 @@
+.nav-tabs {
+  /*margin-bottom: 30px;*/
+}
 .login{
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 .well{
   height: 45px;
   margin: 15px;
+}
+.sidewell {
+  height: auto;
+  display: inline-block;
+  width: 15%;
 }
   .left{
   float: left;
@@ -29,6 +37,20 @@
 h4{
   margin: 0px;
 }
+#wikilogo{
+width: 90%;
+}
+.sidebar {
+  display: inline-block;
+}
+#searchwell{
+  margin-top: 0px;
+  height: 5px;
+  width: 125px;
+  color: grey;
+  background-color: white;
+  padding: 0px;
+}
 #center{
   text-align: center;
 }
@@ -37,7 +59,6 @@ h4{
   height: 100px;
 }
 #topwell{
-  margin-top: 50px;
   border: 3px solid skyblue;
   height: 100px;
 }
@@ -48,7 +69,6 @@ h4{
 #blue{
   border: 1px solid #adc7dd;
   background-color: #e5f0f9;
-  height: 750px;
 }
 #purple{
   border: 1px solid #d8c1f4;
